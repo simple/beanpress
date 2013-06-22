@@ -5,9 +5,5 @@
 @import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
 @import url(http://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
 
-//$sans: "Optima", sans-serif;
-//$serif: "Baskerville", serif;
-$mono: "Courier", "Nanum Gothic Coding", monospace;
-$heading-font-family: "Verdana", "Nanum Gothic", sans-serif;
-$header-title-font-family: "Futura", "Nanum Gothic", sans-serif;
-$header-subtitle-font-family: "Futura", "Nanum Gothic", sans-serif;
+$mono: Menlo, Monaco, "Andale Mono", "lucida console", "Courier New", "Nanum Gothic Coding", monospace !default;
+$heading-font-family: "PT Serif", "Georgia", "Helvetica Neue", Arial, "Nanum Gothic", sans-serif !default;
